@@ -1,0 +1,23 @@
+criaCartao(
+    'futebol',
+    'Quando o São paulo ganhou a copa do brasil?',
+    '2023'
+)
+
+criaCartao(
+    'futebol',
+    'Qual foi o jogador que mais fez gols do São paulo?',
+    'Serginho Chulapa - Serginho Chulapa – 242 gols'
+)
+
+criaCartao(
+    'futebol',
+    'Quem é o artilheiro do São Paulo atualmente?',
+    'Lucas Moura'
+)
+
+criaCartao(
+    'futebol',
+    'Quando o São Paulo ganhou a primeira libertadores?',
+    'Campeão da CONMEBOL Libertadores de 1992.'
+)
